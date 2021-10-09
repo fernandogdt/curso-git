@@ -6,12 +6,12 @@ namespace ProjetoTesteGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Mais uma mensagem");
+            Console.WriteLine("Mais uma mensagem ok");
 
+            Console.WriteLine("E ai");
 
-            Console.WriteLine("Dale");
+            Console.WriteLine("Dale Carnegie");
         }
     }
 }
