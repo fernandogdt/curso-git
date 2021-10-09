@@ -9,7 +9,7 @@ namespace ProjetoTesteGit
 
             Console.WriteLine("Mais uma mensagem ok");
 
-            Console.WriteLine("E ai de novo");
+            Console.WriteLine("E ai de novo atualizado");
 
             Console.WriteLine("Dale Carnegie");
         }
